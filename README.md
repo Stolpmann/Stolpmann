@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Stolpmann
-- 👀 I’m interested in Psychedelics, Technology, Conciousness, Finance/Econ & Machine Learning
-- 🌱 I’m currently learning Python & JavaScript
-- 💞️ I’m looking to collaborate on whatever helps me learn!
+- 👋 Hi, I’m Evan Stolpmann
+- 👀 I’m interested in Decentralized Applications, Bitcoin,Psychedelics, Finance/Econ, Machine Learning & Philosophy
+- 🌱 I’m currently learning Web Dev, Solidity, Python & JavaScript
+- Owner & Operator at DigitalWisdomConsulting.ca
+- Podcaster at https://open.spotify.com/show/4HgGoJbJxXnq8skBA0eVmS
