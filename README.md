@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan Stolpmann
 - 👀 I’m interested in Decentralized Applications, Bitcoin , Psychedelics, Finance/Econ, Machine Learning & Philosophy
-- 🌱 I’m currently learning Web Dev, Solidity, Python & JavaScript
+- 🌱 I’m currently learning Data Science & Python
 - Owner & Operator at DigitalWisdomConsulting.ca
 - Podcaster at https://open.spotify.com/show/4HgGoJbJxXnq8skBA0eVmS
 
