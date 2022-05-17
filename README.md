@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan Stolpmann
-- 👀 I’m interested in Bitcoin, Data Science & Philosophy
-- 🌱 I’m currently learning Data Science & Python
+- 👀 I’m interested in Bitcoin, Data & Philosophy
+- 🌱 I’m currently learning OOP, DevOps and development on Bitcoin and the Lightning Network ⚡
 - Owner & Operator at DigitalWisdomConsulting.ca (Under Construction!)
 
 
